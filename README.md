@@ -18,7 +18,7 @@ O curso de Programação PYTHON do ZERO ao Avançado 2023, ministrado pelo profe
 <p align="center">
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-desafios">💻 Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalação">🔖 Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-certificado">📜 Certificado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">:memo: Licença</a>
 </p>
 
@@ -42,10 +42,13 @@ Neste curso foi utilizada a seguinte tecnologia:
 
 <br>
 
-## 🔖 Certificado
+## 📜 Certificado
 
-- Link Certificado
+Conclusão do Curso: 02/08/2023
 
+<p align="center">
+  <img alt="certificado" src=".github/Thiago Honorato da Silva -  Programação Python do Zero ao Avançado + 32 Projetos Reais.jpg" width="100%">
+</p>
 <br>
 
 ## :memo: Licença
